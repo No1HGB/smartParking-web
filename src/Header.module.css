@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: azure;
+}
+
+.onlyTitle {
+  display: flex;
+  justify-content: center;
+  padding-right: 190px;
+  background-color: azure;
+}
+
+.select {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 4vh;
+  font-weight: bold;
+  color: #6495ed;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  width: 15vw;
+  height: 8vh;
+}
